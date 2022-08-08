@@ -1,1 +1,2 @@
 Some text into it
+Using this to see if the text editor fix worked
